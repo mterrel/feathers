@@ -9,7 +9,7 @@
       "hoist": true
     },
     "publish": {
-      "allowBranch": "crow",
+      "allowBranch": "adaptable/crow",
       "message": "chore(release): publish %s",
       "conventionalCommits": true,
       "createRelease": "github"
